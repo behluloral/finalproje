@@ -1,33 +1,50 @@
 [
     {
-    "isim": "Beykoz",
-    "createdOn": "28-01-2022",
-    "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/beykoz.png"
+        "isim": "Beykoz",
+        "createdOn": "28-01-2022",
+        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/beykoz.png",
+        "kapakUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/otagtepe.png",
+        "baslik": "Otağtepe",
+        "aciklama": "İstanbul'un doğal güzelliğini gözler önüne seren ilçelerinden biridir Beykoz.Eğer Beykoz'da bir hafta sonunuzu değerlendirmek istiyorsanız, sizleri Otağtepe'nin benzersiz manzarasına davet ediyoruz.Muhteşem güzelliğine tarihi dokuların da karışıp harmanlandığı Otağtepe, daha önceki yıllarda ulaşım açısından biraz zor bir noktadaydı. Ulaşımın hızla gelişmesinin ardından artık kolaylıkla bulunabilen bölgeye; Beykoz sarı minibüslerle veya Kadıköy'den kalkan 15F otobüslerine binip Anadoluhisarı'nda inerek taksi ile Otağtepe'ye çıkabilirsiniz. Taksi ile gideceğiniz yolu, yürüyerek 10 dakikada da çıkabilirsiniz.Bilinir ki; Fatih Sultan Mehmet İstanbul'un ilk fetih hazırlıklarını Otağtepe'de yapmıştır. İstanbul'un en cezbedici köşelerinden biri olan Otağtepe, İstanbul Boğazı'nın tüm ihtişamını gözler önüne seriyor. Otağtepe gezinizde şehrin en güzel manzarasını fotoğraflayıp ölümsüzleştirmeyi unutmayın."
     },
     {
         "isim": "Beylikdüzü",
         "createdOn": "28-01-2022",
-        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/beylikduzu.png"
+        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/beylikduzu.png",
+        "kapakUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/kulliye.png",
+        "baslik": "Büyükçekmece Menzil Külliyesi",
+        "aciklama": "Büyükçekmece Menzil Külliyesi, 16. yüzyılda Balkanlara yapılan seferler nedeniyle önem kazanmaya başlayan Büyükçekmece’de yapıldı. Kanuni Sultan Süleyman ve Sadrazamı Sokullu Mehmet Paşa tarafından imar edilen Büyükçekmece Menzil Külliyesi’nde, Kanuni köprü, kervansaray ve çeşmeyi yaptırırken, Sokullu ise kendi adıyla anılan Sokullu Mescidi, on altı dükkân ve dokuz oda yaptırdı.Ancak Sokullu’nun yaptırdığı oda ve dükkânlar günümüze kadar gelemedi. Büyükçekmece Menzil Külliyesi 1998’de yapılan yenileme ve çevre düzenlemesiyle ‘Kültür Park’ ismiyle halka açık. Kültür Park içerisinde sosyal donatı alanları, çocuk parkı, kafeterya ve restoran bulunuyor."
     },
     {
         "isim": "Üsküdar",
         "createdOn": "28-01-2022",
-        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/uskudar.png"
+        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/uskudar.png",
+        "kapakUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/beylerbeyi.png",
+        "baslik": "Beylerbeyi",
+        "aciklama": "Gezilecek tarihi yerler arasında bulunan ve Boğaz Köprüsü'nün hemen altında yer alan Beylerbeyi hem karadan hem de denizden görülmesi gereken bir semttir.Yeşil ve mavinin buluştuğu bu bölgede, sizi menekşe ve leylakların farklı tonları karşılamaktadır.Beylerbeyi; özellikle ilkbahar aylarında, kızılcıklar çiçek açtığı zaman, mutlaka ziyaret edilmelidir.Semtin kıyısında, muhteşem bir şekilde duran Beylerbeyi Sarayı, Hamid-i Evvel Camii, Arif Bey Sahil Konağı ve Debreli İsmail Paşa Yalısı, Beylerbeyi'nde görülmeye değer yerler arasında bulunmaktadır."
     },
     {
         "isim": "Kadıköy",
         "createdOn": "28-01-2022",
-        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/kadikoy.png"
+        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/kadikoy.png",
+        "kapakUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/modakadikoy.png",
+        "baslik": "Moda",
+        "aciklama": "Kadıköy sahilleri de her zaman kalabalık olup özellikle gençlerin gözde mekanı konumunda. Kadıköy’de iskeleden başlayıp kıyı istikametinde sahil yolundan yürüdüğünüzde belli bir süre sonra meşhur Moda sahiline ulaşıyorsunuz.Marmara Denizi ve Adalar‘a bakan bir konumda doğası, yeşil alanları, bol ağaçlı sokakları, tarihi köşkleri, antika ve vintage dükkanları, yeni nesil kahve evleri, sahil kenarı şık restoran ve cafeleri ile ünlü bir semt.Moda’ya geldiğinizde yapılacak en iyi şeyler arasında, sahil kenarında güzel bir yürüyüş yapmak, çay bahçelerinde veya güzel mekanlarda kahvaltı yapmak, veya akşam vakti banklarda veya güzel mekanlarda oturup gün batımını izlemek başta geliyor."
     },
     {
         "isim": "Taksim",
         "createdOn": "28-01-2022",
-        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/taksimm.png"
+        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/taksimm.png",
+        "kapakUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/taksimmeydani.png",
+        "baslik": "Taksim Meydanı",
+        "aciklama": "Taksim’de gezilecek yerler listesinde ilk sırada ünlü Taksim Meydanı var.Taksim Meydanı’nın adı eskiden şehre su dağıtımının buradan yapılmasından yani suyun “taksim edilmesinden” geliyor.Bu işin yapıldığı Taksim Maksemi binası halen İstiklal Caddesi’nin girişinde sağ tarafta yer alsa da çoğu kişi bakmaya bile zahmet etmeden yanından geçip gidiyor. Aslında külah biçimli çatısı ve sekizgen duvarlarıyla ilginç bir yapı."
     },
     {
         "isim": "Beşiktaş",
         "createdOn": "28-01-2022",
-        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/besiktas.png"
+        "resimUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/besiktas.png",
+        "kapakUrl": "https://raw.githubusercontent.com/behluloral/finalproje/main/besiktasiskelesi.png",
+        "baslik": "Beşiktaş İskelesi",
+        "aciklama": "Beşiktaş Meydanı’nın hemen ilerisinde Beşiktaş sahilinde bulunan ve Beşiktaş Üsküdar arası şehir hatları vapurlarının çalıştığı tarihi Beşiktaş İskelesi, mimari yapısıyla görmeye değer bir yapı. Beşiktaş İskelesi’nin ön cephesindeki Mimar Ali Talat Bey (1869-1922) tarafından yapılan çiniler göz alıcı ve etkileyici."
     }
- 
 ]
